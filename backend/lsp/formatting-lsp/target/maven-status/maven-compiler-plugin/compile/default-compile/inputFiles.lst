@@ -1,0 +1,7 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/xtend-gen/kaulua/formatting/FormattingService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/src/kaulua/lsp/api/IFormatting.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/xtend-gen/kaulua/common/UriExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/xtend-gen/kaulua/formatting/AbstractFormattingJsonRPC.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/src/kaulua/lsp/api/IRemote.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/xtend-gen/kaulua/formatting/NullFormatter.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/formatting-lsp/xtend-gen/kaulua/common/Document.java

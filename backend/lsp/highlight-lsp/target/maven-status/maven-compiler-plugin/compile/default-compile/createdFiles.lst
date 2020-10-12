@@ -1,0 +1,14 @@
+kaulua/occurences/ITextRegionTransformer.class
+kaulua/common/UriExtensions.class
+kaulua/highlight/AbstractHighlightJsonRPC.class
+kaulua/occurences/IDocumentHighlightService.class
+kaulua/lsp/api/IDocumentHighlight.class
+kaulua/util/RangeComparator.class
+kaulua/util/PositionComparator.class
+kaulua/common/Document.class
+kaulua/highlight/AbstractHighlightJsonRPC$1.class
+kaulua/lsp/api/IRemote.class
+kaulua/occurences/DefaultDocumentHighlightService.class
+kaulua/util/DocumentHighlightComparator.class
+kaulua/occurences/DefaultDocumentHighlightService$Acceptor2.class
+kaulua/occurences/ITextRegionTransformer$Default.class

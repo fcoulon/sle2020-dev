@@ -1,0 +1,8 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/src/kaulua/lsp/api/IRemote.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/xtend-gen/kaulua/symbol/DocumentSymbolService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/xtend-gen/kaulua/common/DocumentExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/xtend-gen/kaulua/common/UriExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/src/kaulua/lsp/api/ISymbol.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/xtend-gen/kaulua/common/Document.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/xtend-gen/kaulua/symbol/WorkspaceSymbolService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/symbol-lsp/xtend-gen/kaulua/symbol/AbstractSymbolJsonRPC.java

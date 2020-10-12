@@ -1,0 +1,9 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/src/kaulua/lsp/api/IRemote.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/src/kaulua/lsp/api/IHover.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/hover/HoverService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/hover/AbstractHoverJsonRPC.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/hover/HoverContext.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/common/Document.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/common/DocumentExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/hover/IHoverService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/hover-lsp/xtend-gen/kaulua/common/UriExtensions.java

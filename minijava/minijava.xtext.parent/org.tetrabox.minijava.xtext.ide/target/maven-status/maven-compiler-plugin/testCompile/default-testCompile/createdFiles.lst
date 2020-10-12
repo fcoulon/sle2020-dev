@@ -1,0 +1,4 @@
+org/tetrabox/minijava/xtext/ide/MinijavaLSPModule.class
+org/tetrabox/minijava/xtext/ide/MiniJavaIdeSetup.class
+org/tetrabox/minijava/xtext/ide/MiniJavaIdeModule.class
+org/tetrabox/minijava/xtext/ide/CustomServerModule.class

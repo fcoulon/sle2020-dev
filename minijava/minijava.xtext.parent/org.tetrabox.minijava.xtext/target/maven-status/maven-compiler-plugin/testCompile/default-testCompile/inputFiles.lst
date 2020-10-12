@@ -1,0 +1,14 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/formatting2/MiniJavaFormatter.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/scoping/MiniJavaIndex.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/validation/MiniJavaAccessibility.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/MiniJavaRuntimeModule.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/serializer/MiniJavaSyntacticSequencer.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/MiniJavaStandaloneSetup.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/typing/MiniJavaTypeComputer.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/validation/MiniJavaValidator.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/MiniJavaModelUtil.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/typing/MiniJavaTypeConformance.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/scoping/MiniJavaImportedNamespaceAwareLocalScopeProvider.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/scoping/MiniJavaResourceDescriptionsStrategy.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/scoping/MiniJavaScopeProvider.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/minijava/minijava.xtext.parent/org.tetrabox.minijava.xtext/xtend-gen/org/tetrabox/minijava/xtext/serializer/MiniJavaSemanticSequencer.java

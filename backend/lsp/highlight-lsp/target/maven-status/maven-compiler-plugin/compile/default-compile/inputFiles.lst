@@ -1,0 +1,11 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/lsp/api/IRemote.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/occurences/IDocumentHighlightService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/xtend-gen/kaulua/common/UriExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/util/PositionComparator.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/util/DocumentHighlightComparator.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/xtend-gen/kaulua/highlight/AbstractHighlightJsonRPC.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/occurences/DefaultDocumentHighlightService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/occurences/ITextRegionTransformer.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/lsp/api/IDocumentHighlight.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/src/kaulua/util/RangeComparator.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/highlight-lsp/xtend-gen/kaulua/common/Document.java

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_BxaXACerEeWxCPrV0pAZQQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_QqSikIrOEeW7h_qdP9N9fw" featurename="commands" parentElementId="xpath:/">
+    <elements xsi:type="commands:Command" xmi:id="_UCYfwIrOEeW7h_qdP9N9fw" elementId="kaulua.handler.FmGeneratorCommand" commandName="FM Generator"/>
+    <elements xsi:type="commands:Command" xmi:id="_iMtrsMKREemwjqgF6ANtZA" elementId="kaulua.handler.ServiceGeneratorCommand" commandName="Service Generator"/>
+    <elements xsi:type="commands:Command" xmi:id="_f4mtQMNQEem-eLtIsZLKmA" elementId="kaulua.handler.ChartGeneratorCommand" commandName="Charts generator"/>
+    <elements xsi:type="commands:Command" xmi:id="_ZSv-IMNREem-eLtIsZLKmA" elementId="kaulua.fm.generator.command.scriptsgenerator" commandName="Scripts Generator"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_fW12kIrOEeW7h_qdP9N9fw" featurename="handlers" parentElementId="xpath:/">
+    <elements xsi:type="commands:Handler" xmi:id="_k2L0IIrOEeW7h_qdP9N9fw" elementId="org.eclipse.pde.ui.templates.handler.0" contributionURI="bundleclass://kaulua.fm.generator/kaulua.fm.generator.handlers.GenerateFmHandler" command="_UCYfwIrOEeW7h_qdP9N9fw"/>
+    <elements xsi:type="commands:Handler" xmi:id="_n4zEwMKREemwjqgF6ANtZA" elementId="kaulua.fm.generator.handler.0" contributionURI="bundleclass://kaulua.fm.generator/kaulua.fm.generator.handlers.MavenGeneratorHandler" command="_iMtrsMKREemwjqgF6ANtZA"/>
+    <elements xsi:type="commands:Handler" xmi:id="_mI_tQMNQEem-eLtIsZLKmA" elementId="kaulua.fm.generator.handler.1" contributionURI="bundleclass://kaulua.fm.generator/kaulua.fm.generator.handlers.ChartGeneratorHandler" command="_f4mtQMNQEem-eLtIsZLKmA"/>
+    <elements xsi:type="commands:Handler" xmi:id="_dRRCIMNREem-eLtIsZLKmA" elementId="kaulua.fm.generator.handler.2" contributionURI="bundleclass://kaulua.fm.generator/kaulua.fm.generator.handlers.ScriptGeneratorHandler" command="_ZSv-IMNREem-eLtIsZLKmA"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_pVgfIIrOEeW7h_qdP9N9fw" featurename="menuContributions" parentElementId="xpath:/">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_BducUIrPEeW7h_qdP9N9fw" elementId="org.eclipse.pde.ui.templates.menucontribution.1" positionInParent="after=additions" parentId="popup">
+      <children xsi:type="menu:Menu" xmi:id="_Dtii0IrPEeW7h_qdP9N9fw" elementId="org.eclipse.pde.ui.templates.menu.e4handlers" label="Generate (Feature Model)" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_Dtii0YrPEeW7h_qdP9N9fw" elementId="org.eclipse.pde.ui.templates.handledmenuitem." label="" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png" command="_UCYfwIrOEeW7h_qdP9N9fw"/>
+      </children>
+      <children xsi:type="menu:Menu" xmi:id="_MSnWcMKSEemwjqgF6ANtZA" elementId="kaulua.fm.generator.menu.generateservices" label="Generate (Services)" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_7OsicMKREemwjqgF6ANtZA" elementId="kaulua.fm.generator.handledmenuitem.0" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png" command="_iMtrsMKREemwjqgF6ANtZA"/>
+      </children>
+      <children xsi:type="menu:Menu" xmi:id="_FsaQsMNREem-eLtIsZLKmA" elementId="kaulua.fm.generator.menu.generatehelmcharts" label="Generate (Helm Charts)" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_JxJ4gMNREem-eLtIsZLKmA" elementId="kaulua.fm.generator.handledmenuitem.1" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png" command="_f4mtQMNQEem-eLtIsZLKmA"/>
+      </children>
+      <children xsi:type="menu:Menu" xmi:id="_Bqs5UMNSEem-eLtIsZLKmA" elementId="kaulua.fm.generator.menu.generateclusterscripts" label="Generate (Cluster scripts)" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_GqvEsMNSEem-eLtIsZLKmA" elementId="kaulua.fm.generator.handledmenuitem.2" iconURI="platform:/plugin/kaulua.fm.generator/icons/Sample.png" command="_ZSv-IMNREem-eLtIsZLKmA"/>
+      </children>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>

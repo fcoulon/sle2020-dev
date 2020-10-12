@@ -1,0 +1,12 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/DocumentSymbol.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Completion.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Hover.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/DocumentHighlight.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Rename.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Symbol.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Formatting.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/socket/RouterSocket.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Workspace.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/Definition.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/DiagnosticsHandler.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/lsp-router/src/main/java/fr/inria/diverse/lsp/resources/References.java

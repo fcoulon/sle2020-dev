@@ -1,0 +1,31 @@
+grammar fr.inria.diverse.Kaulua with org.eclipse.xtext.common.Terminals
+
+generate kaulua "http://www.inria.fr/diverse/Kaulua"
+
+Protocol:
+	'Protocol' name=STRING '{'
+		(features+=Feature)+
+		
+		'dependencies' '{'
+		(dependencies+=Dependency)*
+		'}'
+	'}'
+;
+
+Feature:
+	(isMandatory ?= "mandatory")? 'feature' name=ID '{'
+		('capabilities' ':' (capabilities+=Capability)+ )?
+		('alternativeOf' ':' alternativeGroup=STRING)?
+	'}'
+;
+
+Capability:
+	name=ID ('[' definitionFile=STRING ']')?
+;
+
+
+Dependency:
+	caller=[Capability | QUALIFIER] "->" callee=[Capability | QUALIFIER]
+;
+
+terminal QUALIFIER : ID ('.' ID)+ ;

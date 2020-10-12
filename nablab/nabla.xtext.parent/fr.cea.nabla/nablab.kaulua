@@ -1,0 +1,77 @@
+Protocol "IDE_for_Nablab"{
+	
+	mandatory feature storage {
+		capabilities :
+			document ["platform:/resource/fr.cea.nabla/services/storage_document.json"]
+			update ["platform:/resource/fr.cea.nabla/services/storage_update.json"]
+	}
+	
+	feature completion {
+		capabilities : 
+			complete ["platform:/resource/fr.cea.nabla/services/completion_complete.json"]
+	}
+	
+	feature definition {
+		capabilities : 
+			definition ["platform:/resource/fr.cea.nabla/services/definition_definition.json"]
+	}
+	
+	feature highlight {
+		capabilities : 
+			highlight ["platform:/resource/fr.cea.nabla/services/highlight_highlight.json"]
+	}
+	
+	feature hover {
+		capabilities : 
+			hover ["platform:/resource/fr.cea.nabla/services/hover_hover.json"]
+	}
+	
+	feature documentSymbol {
+		capabilities : 
+			documentSymbol ["platform:/resource/fr.cea.nabla/services/documentSymbol_documentSymbol.json"]
+	}
+	
+	feature formatting {
+		capabilities : 
+			formatting ["platform:/resource/fr.cea.nabla/services/formatting_formatting.json"]
+	}
+	
+	feature references {
+		capabilities : 
+			references ["platform:/resource/fr.cea.nabla/services/references_references.json"]
+	}
+	
+	feature rename {
+		capabilities : 
+			rename ["platform:/resource/fr.cea.nabla/services/rename_rename.json"]
+	}
+	
+	feature symbol {
+		capabilities : 
+			symbol ["platform:/resource/fr.cea.nabla/services/symbol_symbol.json"]
+	}
+	
+	feature workspace {
+		capabilities : 
+			index ["platform:/resource/fr.cea.nabla/services/workspace_index.json"]
+			didChange ["platform:/resource/fr.cea.nabla/services/workspace_didChange.json"]
+			didOpen ["platform:/resource/fr.cea.nabla/services/workspace_didOpen.json"]
+			didClose ["platform:/resource/fr.cea.nabla/services/workspace_didClose.json"]
+	}
+	
+	dependencies {
+		completion.complete -> storage.document
+		definition.definition -> storage.document
+		highlight.highlight -> storage.document
+		hover.hover -> storage.document
+		documentSymbol.documentSymbol -> storage.document
+		formatting.formatting -> storage.document
+		references.references -> storage.document
+		references.references -> workspace.index
+		rename.rename -> storage.document
+		symbol.symbol -> storage.document
+		symbol.symbol -> workspace.index
+		workspace.didOpen -> storage.document
+		workspace.didChange -> storage.update
+	}
+}

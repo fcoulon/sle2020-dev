@@ -1,0 +1,7 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/src/kaulua/lsp/api/IDefinition.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/xtend-gen/kaulua/definitions/AbstractDefinitionJsonRPC.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/xtend-gen/kaulua/common/Document.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/xtend-gen/kaulua/common/DocumentExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/xtend-gen/kaulua/definitions/DocumentSymbolService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/xtend-gen/kaulua/common/UriExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/definition-lsp/src/kaulua/lsp/api/IRemote.java

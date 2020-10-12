@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+	<properties>
+		<graphics key="showhiddenfeatures" value="true"/>
+		<graphics key="legendautolayout" value="true"/>
+		<graphics key="showshortnames" value="false"/>
+		<graphics key="layout" value="horizontal"/>
+		<graphics key="showcollapsedconstraints" value="true"/>
+		<graphics key="legendhidden" value="false"/>
+		<graphics key="layoutalgorithm" value="1"/>
+	</properties>
+	<struct>
+		<and mandatory="true" name="IDE_for_Nablab">
+			<feature name="storage"/>
+			<feature name="router"/>
+			<feature name="workspace"/>
+			<feature name="completion"/>
+			<feature name="definition"/>
+			<feature name="highlight"/>
+			<feature name="documentsymbol"/>
+			<feature name="formatting"/>
+			<feature name="hover"/>
+			<feature name="references"/>
+			<feature name="rename"/>
+			<feature name="symbol"/>
+		</and>
+	</struct>
+	<constraints>
+		<rule>
+			<imp>
+				<var>workspace</var>
+				<var>router</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>workspace</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>workspace</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>completion</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>definition</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>highlight</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>documentsymbol</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>formatting</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>hover</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>references</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>references</var>
+				<var>workspace</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>rename</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>symbol</var>
+				<var>storage</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>symbol</var>
+				<var>workspace</var>
+			</imp>
+		</rule>
+	</constraints>
+</featureModel>

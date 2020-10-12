@@ -1,0 +1,9 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/src/kaulua/lsp/api/IDocumentSymbol.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/util/CancelIndicatorProgressMonitor.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/common/DocumentExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/documentsymbol/DocumentSymbolService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/src/kaulua/lsp/api/IRemote.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/documentsymbol/HierarchicalDocumentSymbolService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/documentsymbol/AbstractDocumentSymbolJsonRPC.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/common/UriExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/document-symbol-lsp/xtend-gen/kaulua/documentsymbol/DocumentSymbolMapper.java

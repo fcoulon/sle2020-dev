@@ -1,0 +1,14 @@
+org/tetrabox/minijava/xtext/serializer/MiniJavaSemanticSequencer.class
+org/tetrabox/minijava/xtext/typing/MiniJavaTypeComputer.class
+org/tetrabox/minijava/xtext/scoping/MiniJavaImportedNamespaceAwareLocalScopeProvider.class
+org/tetrabox/minijava/xtext/typing/MiniJavaTypeConformance.class
+org/tetrabox/minijava/xtext/scoping/MiniJavaScopeProvider.class
+org/tetrabox/minijava/xtext/MiniJavaStandaloneSetup.class
+org/tetrabox/minijava/xtext/scoping/MiniJavaResourceDescriptionsStrategy.class
+org/tetrabox/minijava/xtext/formatting2/MiniJavaFormatter.class
+org/tetrabox/minijava/xtext/scoping/MiniJavaIndex.class
+org/tetrabox/minijava/xtext/validation/MiniJavaAccessibility.class
+org/tetrabox/minijava/xtext/validation/MiniJavaValidator.class
+org/tetrabox/minijava/xtext/serializer/MiniJavaSyntacticSequencer.class
+org/tetrabox/minijava/xtext/MiniJavaRuntimeModule.class
+org/tetrabox/minijava/xtext/MiniJavaModelUtil.class

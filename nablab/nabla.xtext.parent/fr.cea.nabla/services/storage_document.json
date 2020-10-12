@@ -1,0 +1,4 @@
+{
+    "arguments": ["name"],
+    "returnType": "String"
+}

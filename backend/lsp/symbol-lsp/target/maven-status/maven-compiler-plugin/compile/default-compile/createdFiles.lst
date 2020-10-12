@@ -1,0 +1,12 @@
+kaulua/symbol/DocumentSymbolService.class
+kaulua/lsp/api/ISymbol.class
+kaulua/common/UriExtensions.class
+kaulua/symbol/AbstractSymbolJsonRPC$2.class
+kaulua/symbol/WorkspaceSymbolService.class
+kaulua/lsp/api/IRemote.class
+kaulua/symbol/AbstractSymbolJsonRPC$1__AbstractSymbolJsonRPC_2.class
+kaulua/symbol/AbstractSymbolJsonRPC.class
+kaulua/symbol/AbstractSymbolJsonRPC$3.class
+kaulua/common/Document.class
+kaulua/symbol/AbstractSymbolJsonRPC$1.class
+kaulua/common/DocumentExtensions.class

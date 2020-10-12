@@ -1,0 +1,13 @@
+version: '3'
+services:
+  lsp-server:
+   image: "quarkus/standalone-lsp-server-jvm:latest"
+   ports:
+    - "8080:8080"
+  prometheus:
+    image: "prom/prometheus:latest"
+    ports:
+     - "9090:9090"
+    volumes:
+      - ./lsp.yml:/etc/prometheus/prometheus.yml
+

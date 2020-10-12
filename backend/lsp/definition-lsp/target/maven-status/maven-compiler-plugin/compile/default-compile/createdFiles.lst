@@ -1,0 +1,8 @@
+kaulua/definitions/DocumentSymbolService.class
+kaulua/common/UriExtensions.class
+kaulua/lsp/api/IDefinition.class
+kaulua/definitions/AbstractDefinitionJsonRPC.class
+kaulua/common/Document.class
+kaulua/lsp/api/IRemote.class
+kaulua/common/DocumentExtensions.class
+kaulua/definitions/AbstractDefinitionJsonRPC$1.class

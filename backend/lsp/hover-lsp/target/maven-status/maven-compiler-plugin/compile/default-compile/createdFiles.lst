@@ -1,0 +1,10 @@
+kaulua/common/Document.class
+kaulua/lsp/api/IHover.class
+kaulua/lsp/api/IRemote.class
+kaulua/common/UriExtensions.class
+kaulua/hover/HoverService.class
+kaulua/common/DocumentExtensions.class
+kaulua/hover/IHoverService.class
+kaulua/hover/AbstractHoverJsonRPC.class
+kaulua/hover/AbstractHoverJsonRPC$1.class
+kaulua/hover/HoverContext.class

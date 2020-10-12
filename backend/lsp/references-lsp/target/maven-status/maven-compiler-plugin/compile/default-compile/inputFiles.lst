@@ -1,0 +1,9 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/src/kaulua/lsp/api/IReference.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/common/DocumentExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/references/AbstractReferenceJsonRPC.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/common/UriExtensions.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/common/Document.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/references/DocumentSymbolService.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/src/kaulua/lsp/api/IRemote.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/util/CancelIndicatorProgressMonitor.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/backend/lsp/references-lsp/xtend-gen/kaulua/findReferences/WorkspaceResourceAccess.java

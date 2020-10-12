@@ -1,0 +1,6 @@
+fr/cea/nabla/ide/NablaIdeModule.class
+fr/cea/nabla/ide/CustomDocumentHighlight.class
+fr/cea/nabla/ide/CustomServerModule.class
+fr/cea/nabla/ide/NablaIdeSetup.class
+fr/cea/nabla/ide/NablaLSPModule.class
+fr/cea/nabla/ide/CustomLanguageServerImpl.class

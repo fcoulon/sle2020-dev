@@ -1,0 +1,9 @@
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/xtend-gen/org/thingml/xtext/ide/ThingMLIdeSetup.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/src-gen/org/thingml/xtext/ide/contentassist/antlr/PartialThingMLContentAssistParser.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/src-gen/org/thingml/xtext/ide/AbstractThingMLIdeModule.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/xtend-gen/org/thingml/xtext/ide/CustomServerModule.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/src-gen/org/thingml/xtext/ide/contentassist/antlr/ThingMLParser.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/xtend-gen/org/thingml/xtext/ide/ThingMLIdeModule.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/xtend-gen/org/thingml/xtext/ide/ThingmlLSPModule.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/src-gen/org/thingml/xtext/ide/contentassist/antlr/internal/InternalThingMLParser.java
+/home/fcoulon/git/distributed-xtext-server-for-lsp/thingml/thingml.xtext.parent/thingml.ide/src-gen/org/thingml/xtext/ide/contentassist/antlr/internal/InternalThingMLLexer.java

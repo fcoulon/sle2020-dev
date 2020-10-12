@@ -1,0 +1,9 @@
+kaulua/formatting/FormattingService$OverrideChecker.class
+kaulua/formatting/NullFormatter.class
+kaulua/common/UriExtensions.class
+kaulua/formatting/FormattingService.class
+kaulua/common/Document.class
+kaulua/lsp/api/IRemote.class
+kaulua/formatting/AbstractFormattingJsonRPC$1.class
+kaulua/formatting/AbstractFormattingJsonRPC.class
+kaulua/lsp/api/IFormatting.class

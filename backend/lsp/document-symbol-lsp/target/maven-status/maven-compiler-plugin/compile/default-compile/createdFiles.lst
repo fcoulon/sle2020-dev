@@ -1,0 +1,15 @@
+kaulua/util/CancelIndicatorProgressMonitor.class
+kaulua/documentsymbol/DocumentSymbolMapper$DocumentSymbolKindProvider.class
+kaulua/documentsymbol/DocumentSymbolMapper$DocumentSymbolRangeProvider.class
+kaulua/documentsymbol/DocumentSymbolService.class
+kaulua/common/UriExtensions.class
+kaulua/documentsymbol/DocumentSymbolMapper$DocumentSymbolDeprecationInfoProvider.class
+kaulua/documentsymbol/AbstractDocumentSymbolJsonRPC$1.class
+kaulua/documentsymbol/AbstractDocumentSymbolJsonRPC.class
+kaulua/lsp/api/IRemote.class
+kaulua/lsp/api/IDocumentSymbol.class
+kaulua/documentsymbol/HierarchicalDocumentSymbolService.class
+kaulua/common/DocumentExtensions.class
+kaulua/documentsymbol/DocumentSymbolMapper.class
+kaulua/documentsymbol/DocumentSymbolMapper$DocumentSymbolDetailsProvider.class
+kaulua/documentsymbol/DocumentSymbolMapper$DocumentSymbolNameProvider.class

@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Nabla
+Bundle-SymbolicName: fr.cea.nabla;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Export-Package: fr.cea.nabla,
+ fr.cea.nabla.generator,
+ fr.cea.nabla.nabla,
+ fr.cea.nabla.parser.antlr,
+ fr.cea.nabla.parser.antlr.internal,
+ fr.cea.nabla.scoping,
+ fr.cea.nabla.serializer,
+ fr.cea.nabla.services,
+ fr.cea.nabla.typing,
+ fr.cea.nabla.validation

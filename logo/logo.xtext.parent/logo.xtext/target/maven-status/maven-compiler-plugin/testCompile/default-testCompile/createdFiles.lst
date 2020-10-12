@@ -1,0 +1,7 @@
+fr/inria/diverse/serialization/TransientValueService.class
+fr/inria/diverse/LogoStandaloneSetup.class
+fr/inria/diverse/scoping/LogoScopeProvider.class
+fr/inria/diverse/LogoRuntimeModule.class
+fr/inria/diverse/validation/LogoValidator.class
+fr/inria/diverse/generator/LogoGenerator.class
+fr/inria/diverse/formatting2/LogoFormatter.class

@@ -1,0 +1,4 @@
+org/thingml/xtext/ide/CustomServerModule.class
+org/thingml/xtext/ide/ThingMLIdeModule.class
+org/thingml/xtext/ide/ThingMLIdeSetup.class
+org/thingml/xtext/ide/ThingmlLSPModule.class

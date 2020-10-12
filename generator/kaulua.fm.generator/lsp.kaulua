@@ -1,0 +1,89 @@
+Protocol {
+	
+	feature router {
+		capabilities :
+			publishDiagnostics (message: String) : void
+	}
+	
+	feature storage {
+		capabilities :
+			document (name : String) : String
+			update (name: String, message : String) : void
+	}
+	
+	feature completion {
+		capabilities : 
+			complete(message : String) : String
+	}
+	
+	feature definition {
+		capabilities : 
+			definition(message : String) : String
+	}
+	
+	feature highlight {
+		capabilities : 
+			highlight(message : String) : String
+	}
+	
+	feature hover {
+		capabilities : 
+			hover(message : String) : String
+	}
+	
+	feature documentSymbol {
+		capabilities : 
+			documentSymbol(message : String) : String
+	}
+	
+	feature formatting {
+		capabilities : 
+			formatting(message : String) : String
+	}
+	
+	feature references {
+		capabilities : 
+			references(message : String) : String
+	}
+	
+	feature rename {
+		capabilities : 
+			rename(message : String) : String
+	}
+	
+	feature symbol {
+		capabilities : 
+			symbol(message : String) : String
+	}
+	
+	feature workspace {
+		capabilities : 
+			index() : String
+			didChange(message : String) : void
+			didOpen(message : String) : void
+			didClose(message : String) : void
+	}
+	
+	feature compiler {
+		capabilities :
+			generate(name : String) : String
+	}
+	
+	dependencies {
+		completion.complete -> storage.document
+		definition.definition -> storage.document
+		highlight.highlight -> storage.document
+		hover.hover -> storage.document
+		documentSymbol.documentSymbol -> storage.document
+		formatting.formatting -> storage.document
+		references.references -> storage.document
+		references.references -> workspace.index
+		rename.rename -> storage.document
+		symbol.symbol -> storage.document
+		symbol.symbol -> workspace.index
+		workspace.didOpen -> storage.document
+		workspace.didChange -> storage.update
+		workspace.didChange -> router.publishDiagnostics
+		compiler.generate -> storage.document
+	}
+}

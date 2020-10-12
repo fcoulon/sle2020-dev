@@ -1,0 +1,12 @@
+fr/inria/diverse/lsp/resources/Definition.class
+fr/inria/diverse/lsp/resources/Formatting.class
+fr/inria/diverse/lsp/resources/Completion.class
+fr/inria/diverse/lsp/resources/DiagnosticsHandler.class
+fr/inria/diverse/lsp/resources/Rename.class
+fr/inria/diverse/lsp/resources/DocumentHighlight.class
+fr/inria/diverse/lsp/resources/DocumentSymbol.class
+fr/inria/diverse/lsp/resources/References.class
+fr/inria/diverse/lsp/resources/Hover.class
+fr/inria/diverse/lsp/resources/Symbol.class
+fr/inria/diverse/lsp/resources/Workspace.class
+fr/inria/diverse/socket/RouterSocket.class
